@@ -16,6 +16,7 @@ env/
 
 # Data files (too large for GitHub)
 data/raw/
+*.csv
 data/processed/
 
 # Trained model files
